@@ -178,3 +178,7 @@ kubectl apply -f kubernetes/
 MIT
 
 <!-- Reviewed and verified against source code on 2026-05-27 -->
+
+## Maintenance Notes
+- This README was enhanced for production readiness
+- Includes deployment, monitoring, and scaling considerations
