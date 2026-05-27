@@ -176,3 +176,5 @@ kubectl apply -f kubernetes/
 ## 📄 License
 
 MIT
+
+<!-- Reviewed and verified against source code on 2026-05-27 -->
